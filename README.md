@@ -142,7 +142,7 @@ Me chamo Enrik Paulo Lemes da Silva, tenho 21 anos e sou natural de Santa Catari
 <br/>
 <br/>
 
-### 📊 Estatísticas
+<!-- ### 📊 Estatísticas
 
 <p>
   <img 
@@ -161,5 +161,6 @@ Me chamo Enrik Paulo Lemes da Silva, tenho 21 anos e sou natural de Santa Catari
   />
 
 </p>
+-->
 
 
